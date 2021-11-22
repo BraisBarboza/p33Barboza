@@ -22,4 +22,5 @@
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
     <string name="add_data">first_opition</string>
     <string name="first_option">Primera opcion</string>
+    <string name="send_default">send</string>
 </resources>
